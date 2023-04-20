@@ -1,0 +1,15 @@
+.row {
+  display: flex;
+}
+
+.col {
+  flex: 1;
+}
+
+.card {
+  min-width: 100px;
+  min-height: 100px;
+  text-align: center;
+  font-weight: bold;
+  border: 1px solid black;
+}
